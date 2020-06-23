@@ -1,0 +1,18 @@
+{
+  "foods": [
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Veggie",
+      "price": "50.00",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "id": 2
+    },
+    {
+      "image": "",
+      "name": "",
+      "price": "20.00",
+      "description": "",
+      "id": 3
+    }
+  ]
+}
